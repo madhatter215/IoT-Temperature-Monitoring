@@ -7,7 +7,7 @@ Look at the two *.png files to see what the webpage looks like in graph form of 
 
 Simple Explanation:
 =====================
-I deployed a small board equiped with a temperature sensor and an ethernet connection to take samples and send to a remote server. The server saves the data and uses it to generate reports, upload into graph on a webpage, and run periodic cron jobs to alert (via text/email) the team if there is a critical problem.  
+I deployed a small IoT board equiped with a temperature sensor and an ethernet connection to take samples and send to a remote server. The server saves the data and uses it to generate reports, upload into graph on a webpage, and run periodic cron jobs to alert (via text/email) the team if there is a critical problem!  
 
 
 Theory of Operation: 
