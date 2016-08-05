@@ -2,7 +2,7 @@
 
 This is a project I took on to help my group monitor temperature in the labs. We had a cooling problem where over the weekend the AC unit failed and the lab temperature got to over 100F degrees! I thought it would be beneficial to the group so I devided to come up with a quick solution on my own time. The feedback I revceived was good. 
 
-Look at the two *.png files to see what the webpage looks like in graph form of the data. 
+I've uploaded a PowerPoint with a few slides to describe this project and attached two *.png pictures to show what the webpage looks like in graph form of the data. 
 
 
 Simple Explanation:
